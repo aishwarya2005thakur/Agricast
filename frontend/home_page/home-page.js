@@ -167,6 +167,7 @@ function repelLetters(event) {
     const distanceX = letterX - mouseX;
     const distanceY = letterY - mouseY;
     const distance = Math.sqrt(distanceX * distanceX + distanceY * distanceY);
+    
 
     // Repelling force (adjust multiplier for more or less movement)
     const force = Math.min(100 / distance, 10);
