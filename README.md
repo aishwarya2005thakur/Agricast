@@ -1,7 +1,3 @@
-Here’s a more **animated, visually appealing, and engaging README** for your **AgriCast** project, perfect for showcasing in a hackathon submission like NSUT:
-
----
-
 # 🌾 **AgriCast** – Empowering Farmers with Data, Not Guesswork!
 
 ![AgriCast Banner](https://img.shields.io/badge/AgriCast-Farm%20Smarter%20with%20Tech-green?style=for-the-badge\&logo=leaflet)
