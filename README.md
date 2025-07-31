@@ -38,3 +38,8 @@ In the future, Agri Cast aims to expand into a full-fledged website and mobile a
 Sustainability:
 
 As a non-profit organization, Agri Cast aims to collaborate with key government bodies such as Krishi Vigyan Kendra, the Ministry of Agriculture and Farmers' Welfare, and the Indian Council of Agriculture Research (ICAR). Our goal is to empower farmers with actionable insights, modern technologies, and sustainable practices for long-term agricultural success.Agri Cast - Hackathon Submission
+
+
+view Agricast:
+
+[![Play Now](https://img.shields.io/badge/Play-Demo-blue?style=for-the-badge)](https://agricast-indol.vercel.app/)
